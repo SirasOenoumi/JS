@@ -9,11 +9,14 @@ window.addEventListener('load',function(){
 window.addEventListener('mouseover',function(){
 
     const over =document.getElementById("lists")
-    console.log(over)
 })
 
 window.addEventListener('mouseout',function(){
 
     const out =document.getElementById("lists")
-    console.log(out)
+})
+
+window.addEventListener('click',function(){
+
+    const click =document.getElementById("lists")
 })
